@@ -20,13 +20,13 @@ This challenge it was so much easy what it was so speed to the make.
 
 ### Screenshot
 
-[1](./screenshots/Screenshot_desktop.png)
-[2](./screenshots/Screenshot_Mobile.png)
+![1](./screenshots/Screenshot_desktop.png)
+![2](./screenshots/Screenshot_Mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://emilyfelicio.github.io/3columns/3columns/)
 
 ## My process
 
